@@ -1,17 +1,18 @@
 {
-  "name": "localtunnel",
-  "description": "Expose localhost to the world",
-  "version": "2.0.0",
+  "name": "tmbtc",
+  "description": "Share your development.",
+  "version": "2.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/localtunnel/localtunnel.git"
+    "url": "git@github.com:nitrohawk/localtunnel.git"
   },
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "contributors": [
     "Roman Shtylman <shtylman@gmail.com>",
     "Gert Hengeveld <gert@hichroma.com>",
-    "Tom Coleman <tom@hichroma.com>"
+    "Tom Coleman <tom@hichroma.com>",
+    "Richard Silva <richard@themanbehindthecode.com>"
   ],
   "main": "./localtunnel.js",
   "bin": {
